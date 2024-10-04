@@ -9,8 +9,8 @@
 
 ### Goals:
 
-1.<p align="justify"> **Image Generation**: Generate a background based on a text prompt and place the object image in a natural position.
-2. <p align="justify">**Video Generation**: Create a short video by generating multiple consistent frames with the object placed in various positions, zooming in/out, or even moving within the scene.
+1. **Image Generation**: Generate a background based on a text prompt and place the object image in a natural position.
+2. **Video Generation**: Create a short video by generating multiple consistent frames with the object placed in various positions, zooming in/out, or even moving within the scene.
 
 ## Approach
 
