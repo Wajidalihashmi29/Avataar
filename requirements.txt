@@ -1,0 +1,7 @@
+torch
+transformers
+diffusers
+Pillow
+rembg
+opencv-python
+tqdm
