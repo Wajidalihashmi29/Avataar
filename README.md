@@ -42,6 +42,16 @@ Make sure you have Python 3.8 or higher installed. You can install the required 
 ```bash
 pip install -r requirements.txt
 ```
+The requirements.txt includes:
+```bash
+torch
+transformers
+diffusers
+Pillow
+rembg
+opencv-python
+tqdm
+```
 ### Model Setup
 The project uses the runwayml/stable-diffusion-v1-5 model from Hugging Face for scene generation. This will be automatically downloaded when running the script for the first time.
 ## Image Generation
